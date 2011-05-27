@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.2
-Release:	%mkrel 3
+Release:	%mkrel 4
 Summary:	RPN (Reverse Polish Notation) support
 License:	PHP License
 Group:		Development/PHP
