@@ -8,7 +8,7 @@ Release:	7
 Summary:	RPN (Reverse Polish Notation) support
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Math_RPN/
+URL:		https://pear.php.net/package/Math_RPN/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
